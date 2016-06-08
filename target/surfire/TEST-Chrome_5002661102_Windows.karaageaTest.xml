@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="Chrome_5002661102_Windows.karaage Test" errors="0" failures="0" tests="5" time="0.007">
+<testcase classname="Chrome_5002661102_Windows.karaage Test" name="test picOne" time="0.0"/>
+<testcase classname="Chrome_5002661102_Windows.karaage Test" name="test sort" time="0.001"/>
+<testcase classname="Chrome_5002661102_Windows.karaage Test" name="test immutable" time="0.002"/>
+<testcase classname="Chrome_5002661102_Windows.karaage Test" name="test picZero" time="0.002"/>
+<testcase classname="Chrome_5002661102_Windows.karaage Test" name="test picAny" time="0.002"/>
+<system-out><![CDATA[[LOG] setUp
+[LOG] test pickOne
+[LOG] tearDown[LOG] setUp
+[LOG] test sort
+[LOG] tearDown[LOG] setUp
+[LOG] test immutable
+[LOG] 2,3,3
+[LOG] tearDown[LOG] setUp
+[LOG] test pickOne
+[LOG] tearDown[LOG] setUp
+[LOG] test pickOne
+[LOG] tearDown]]></system-out>
+</testsuite>
